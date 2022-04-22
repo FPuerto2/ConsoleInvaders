@@ -1,0 +1,7 @@
+F:\Proyectos\Ejercicios C# 2022\7.7.18\7.7.18\bin\Debug\7.7.18.exe.config
+F:\Proyectos\Ejercicios C# 2022\7.7.18\7.7.18\bin\Debug\7.7.18.exe
+F:\Proyectos\Ejercicios C# 2022\7.7.18\7.7.18\bin\Debug\7.7.18.pdb
+F:\Proyectos\Ejercicios C# 2022\7.7.18\7.7.18\obj\Debug\7.7.18.csprojAssemblyReference.cache
+F:\Proyectos\Ejercicios C# 2022\7.7.18\7.7.18\obj\Debug\7.7.18.csproj.CoreCompileInputs.cache
+F:\Proyectos\Ejercicios C# 2022\7.7.18\7.7.18\obj\Debug\7.7.18.exe
+F:\Proyectos\Ejercicios C# 2022\7.7.18\7.7.18\obj\Debug\7.7.18.pdb
